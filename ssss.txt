@@ -1,0 +1,20 @@
+<header class="header">
+        <nav class="header-nav">
+            <div class="header-nav__container">
+                <a href="" class="header-nav__link-logo-container">
+                    <img src="./img/imgLogo.jpg" alt="logo Jhoyce" width="48px" class="header-nav__logo">
+                </a>
+                <ul class="header-nav__menu-link-list">
+                    <li class="header-nav__menu-link-list">
+                        <a href="*" class="header-nav__menu-list"></a>
+                    </li>
+                    <li class="header-nav__menu-link-list">
+                        <a href="" class="header-nav__menu-list"></a>
+                    </li>
+                    <li class="header-nav__menu-link-list">
+                        <a href="" class="header-nav__menu-list"></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
