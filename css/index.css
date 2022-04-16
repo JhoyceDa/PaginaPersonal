@@ -191,6 +191,7 @@
     0 0 0 0.125rem var(--primary-shadow-color),
     0 0 0 0.25rem var(--primary-shadow-color);
   transition: var(--all-transitions);
+  
     
 }
 .profile__info:hover{
@@ -213,10 +214,11 @@
   margin: 0% ;
 }
 .profile__info-link-container {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   display: flex;
   gap: 1rem;
   justify-content: center;
+  margin-bottom: 1.5rem;
 } 
 .profile__info-link {
   text-shadow: 0 0 0.125rem var(--primary-highlight-color);
